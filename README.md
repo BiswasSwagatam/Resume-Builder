@@ -1,3 +1,16 @@
+Site deployed on - resume-builder-tau-six.vercel.app
+
+![home](https://github.com/user-attachments/assets/b15813ac-7f8d-4172-ae41-a3fabf2d67c9)
+![resumes](https://github.com/user-attachments/assets/9a6f51a1-8883-4e56-bf5a-dce38fa8cd3c)
+![resume](https://github.com/user-attachments/assets/659c29bf-278c-4810-8ee3-acb2b789e842)
+![aifeature1](https://github.com/user-attachments/assets/d8069a0b-2b92-4329-8f11-4d04d1cb7935)
+AI feature
+![aifeature2](https://github.com/user-attachments/assets/73898d3d-7f78-49e8-9c75-6f898cebb327)
+AI feature
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
