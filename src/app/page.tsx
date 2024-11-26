@@ -26,7 +26,12 @@ export default function Home() {
           Our <span className="font-bold">AI resume builder</span> helps you
           design a professional resume, even if you&apos;re not very smart.
         </p>
-        <Button asChild size="lg" variant="default" className="hover:shadow-lg">
+        <Button
+          asChild
+          size="lg"
+          variant="default"
+          className="bg-gradient-to-r from-purple-800 to-purple-600 text-white hover:shadow-lg"
+        >
           <Link href="/resumes">Get started</Link>
         </Button>
       </div>
