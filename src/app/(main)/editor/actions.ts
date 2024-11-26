@@ -21,8 +21,12 @@ export async function saveResume(values: ResumeValues) {
   }
 
   const existingResume = id
-    ? await prisma.resume.findUnique({ where: { id, userId } })
+    ? await prisma.resume.findUnique({
+        where: { id, userId },
+      })
     : null;
+
+  console.log(existingResume);
 
   if (id && !existingResume) {
     throw new Error("Resume not found");
